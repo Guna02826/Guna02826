@@ -9,10 +9,10 @@ I'm a recent Computer Science graduate passionate about Full-Stack Development. 
 - **Tools:** Git, Adobe Photoshop, Adobe Premiere Pro
 
 ## 🌟 Projects
-### [Temperature Conversion Website](https://guna02826.github.io/temp-converter/)
+### Temperature Conversion Website
 - Developed a responsive temperature conversion website featuring an intuitive user interface that allows users to easily convert between Celsius and Fahrenheit with a sleek design and interactive elements.
 - Technologies: HTML, CSS, JavaScript.
-- Website:
+- Website: [Live Demo](https://guna02826.github.io/temp-converter/)
 
 ### Personal Portfolio Website
 - Developed a responsive portfolio website showcasing my work and skills.
@@ -29,6 +29,6 @@ I'm a recent Computer Science graduate passionate about Full-Stack Development. 
 
 ## 📫 Connect with Me
 - Email: [gssp02826@gmail.com](mailto:gssp02826@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](#)
+- LinkedIn: [Gunasekaraselvapandian Annadurai](https://www.linkedin.com/in/gunasekaraselvapandian-annadurai/))
 
 Feel free to explore my repositories and don't hesitate to reach out!
