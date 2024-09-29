@@ -10,6 +10,10 @@ I'm a recent Computer Science graduate passionate about Full-Stack Development. 
 
 ## 🌟 Projects
 ### Personal Portfolio Website
+- Developed a responsive temperature conversion website featuring an intuitive user interface that allows users to easily convert between Celsius and Fahrenheit with a sleek design and interactive elements.
+- Technologies: HTML, CSS, JavaScript.
+
+### Personal Portfolio Website
 - Developed a responsive portfolio website showcasing my work and skills.
 - Technologies: HTML, CSS, JavaScript.
 
