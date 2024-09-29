@@ -12,7 +12,7 @@ I'm a recent Computer Science graduate passionate about Full-Stack Development. 
 ### Temperature Conversion Website
 - Developed a responsive temperature conversion website featuring an intuitive user interface that allows users to easily convert between Celsius and Fahrenheit with a sleek design and interactive elements.
 - Technologies: HTML, CSS, JavaScript.
-- Website: [Live Demo](https://guna02826.github.io/temp-converter/)
+- Website: [Live Demo](https://guna02826.github.io/Temp-Converter/)
 
 ### Personal Portfolio Website
 - Developed a responsive portfolio website showcasing my work and skills.
