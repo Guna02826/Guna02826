@@ -9,7 +9,7 @@ I'm a recent Computer Science graduate passionate about Full-Stack Development. 
 - **Tools:** Git, Adobe Photoshop, Adobe Premiere Pro
 
 ## 🌟 Projects
-### Personal Portfolio Website
+### [Temperature Conversion Website](https://guna02826.github.io/temp-converter/)
 - Developed a responsive temperature conversion website featuring an intuitive user interface that allows users to easily convert between Celsius and Fahrenheit with a sleek design and interactive elements.
 - Technologies: HTML, CSS, JavaScript.
 - Website:
@@ -17,7 +17,6 @@ I'm a recent Computer Science graduate passionate about Full-Stack Development. 
 ### Personal Portfolio Website
 - Developed a responsive portfolio website showcasing my work and skills.
 - Technologies: HTML, CSS, JavaScript.
-- Website: [Live Demo](https://guna02826.github.io/temp-converter/)
 
 ### E-Commerce Website
 - Collaborated on a team project featuring product listings and secure checkout.
