@@ -29,6 +29,6 @@ I'm a recent Computer Science graduate passionate about Full-Stack Development. 
 
 ## 📫 Connect with Me
 - Email: [gssp02826@gmail.com](mailto:gssp02826@gmail.com)
-- LinkedIn: [Gunasekaraselvapandian Annadurai](https://www.linkedin.com/in/gunasekaraselvapandian-annadurai/))
+- LinkedIn: [Gunasekaraselvapandian Annadurai](https://www.linkedin.com/in/gunasekaraselvapandian-annadurai/)
 
 Feel free to explore my repositories and don't hesitate to reach out!
