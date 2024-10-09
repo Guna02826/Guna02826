@@ -17,7 +17,7 @@ I'm a recent Computer Science graduate passionate about Full-Stack Development. 
 ### Digital Clock Website
 - Developed a responsive digital clock website that showcases the current time with a user-friendly interface, featuring an elegant design and smooth animations. The website allows users to view the time in various formats and includes interactive elements for a seamless experience.
 - Technologies: HTML, CSS, JavaScript.
-- Website: [Live Demo]((https://guna02826.github.io/DigitalClock/))
+- Website: [Live Demo](https://guna02826.github.io/DigitalClock/)
 
 ### Personal Portfolio Website
 - Developed a responsive portfolio website showcasing my work and skills.
