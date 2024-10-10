@@ -12,12 +12,17 @@ I'm a recent Computer Science graduate passionate about Full-Stack Development. 
 ### Temperature Conversion Website
 - Developed a responsive temperature conversion website featuring an intuitive user interface that allows users to easily convert between Celsius and Fahrenheit with a sleek design and interactive elements.
 - Technologies: HTML, CSS, JavaScript.
-- Website: [Live Demo](https://guna02826.github.io/Temp-Converter/)
+- Website: [Live Demo](https://guna02826.github.io/temp-conversion-js/)
 
 ### Digital Clock Website
 - Developed a responsive digital clock website that showcases the current time with a user-friendly interface, featuring an elegant design and smooth animations. The website allows users to view the time in various formats and includes interactive elements for a seamless experience.
 - Technologies: HTML, CSS, JavaScript.
-- Website: [Live Demo](https://guna02826.github.io/DigitalClock/)
+- Website: [Live Demo](https://guna02826.github.io/digital-clock-js/)
+
+### Stopwatch Application
+- Developed a web-based stopwatch application that provides users with an intuitive interface to track time, featuring start, pause, and reset functionalities.
+- Technologies: HTML, CSS, JavaScript.
+- Website: [Live Demo](https://guna02826.github.io/stopwatch-js/)
 
 ### Personal Portfolio Website
 - Developed a responsive portfolio website showcasing my work and skills.
