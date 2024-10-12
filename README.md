@@ -28,7 +28,7 @@ I'm a recent Computer Science graduate passionate about Full-Stack Development. 
 - A minimalistic and responsive calculator application created using HTML, CSS, and JavaScript. 
 - This web-based calculator can perform basic arithmetic operations such as addition, subtraction, multiplication, and division. 
 - It features a sleek and modern design with intuitive button layouts.
-- - Website: [Live Demo]((https://guna02826.github.io/Simple-Calculator/))
+- - Website: [Live Demo](https://guna02826.github.io/Simple-Calculator/)
 
 ### Personal Portfolio Website
 - Developed a responsive portfolio website showcasing my work and skills.
