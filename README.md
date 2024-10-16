@@ -30,6 +30,11 @@ I'm a recent Computer Science graduate passionate about Full-Stack Development. 
 - It features a sleek and modern design with intuitive button layouts.
 - Website: [Live Demo](https://guna02826.github.io/Simple-Calculator/)
 
+### Rock-Paper-Scissors Game
+- Developed a web-based Rock-Paper-Scissors game that allows players to compete against a computer opponent. The game features a user-friendly interface where players can select their choice and see immediate results, including scores and game outcomes.
+- Technologies: HTML, CSS, JavaScript.
+- Website: [Live Demo](https://guna02826.github.io/rock-paper-scissors-game/)
+
 ### Personal Portfolio Website
 - Developed a responsive portfolio website showcasing my work and skills.
 - Technologies: HTML, CSS, JavaScript.
