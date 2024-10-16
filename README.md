@@ -34,15 +34,6 @@ I'm a recent Computer Science graduate passionate about Full-Stack Development. 
 - Developed a web-based Rock-Paper-Scissors game that allows players to compete against a computer opponent. The game features a user-friendly interface where players can select their choice and see immediate results, including scores and game outcomes.
 - Technologies: HTML, CSS, JavaScript.
 - Website: [Live Demo](https://guna02826.github.io/rock-paper-scissors-game/)
-
-### Personal Portfolio Website
-- Developed a responsive portfolio website showcasing my work and skills.
-- Technologies: HTML, CSS, JavaScript.
-
-### E-Commerce Website
-- Collaborated on a team project featuring product listings and secure checkout.
-- Technologies: Node.js, MySQL, and payment gateway integration.
-
 ## 🎓 Education
 - **Bachelor of Science in Computer Science Engineering**  
   Sathyabama Institute of Science and Technology  
