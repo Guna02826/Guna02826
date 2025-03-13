@@ -19,7 +19,6 @@ I'm a recent Computer Science graduate passionate about Full-Stack Development. 
 - Technologies: HTML, CSS, JavaScript.
 - Website: [Live Demo](https://guna02826.github.io/WeatherApp-JS/)
 
-
 ## 🎓 Education
 - **Bachelor of Science in Computer Science Engineering**  
   Sathyabama Institute of Science and Technology  
