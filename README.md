@@ -17,7 +17,7 @@ I'm a recent Computer Science graduate passionate about Full-Stack Development. 
 ### Weather App
 - Developed a responsive weather application that fetches real-time weather data from the OpenWeatherMap API based on user-inputted cities. The app displays current conditions like temperature, humidity, and wind speed in a clean, intuitive interface.
 - Technologies: HTML, CSS, JavaScript.
-- Website: [Live Demo](https://guna02826.github.io/WeatherApp-JS/)) 
+- Website: [Live Demo](https://guna02826.github.io/WeatherApp-JS/)
 
 
 ## 🎓 Education
