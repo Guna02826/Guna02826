@@ -14,6 +14,12 @@ I'm a recent Computer Science graduate passionate about Full-Stack Development. 
 - Technologies: HTML, CSS, JavaScript.
 - Website: [Live Demo](https://guna02826.github.io/rock-paper-scissors-game/)
 
+### Weather App
+- Developed a responsive weather application that fetches real-time weather data from the OpenWeatherMap API based on user-inputted cities. The app displays current conditions like temperature, humidity, and wind speed in a clean, intuitive interface.
+- Technologies: HTML, CSS, JavaScript.
+- Website: [Live Demo](https://guna02826.github.io/WeatherApp-JS/)) 
+
+
 ## 🎓 Education
 - **Bachelor of Science in Computer Science Engineering**  
   Sathyabama Institute of Science and Technology  
