@@ -3,7 +3,7 @@
 I'm a recent Computer Science graduate passionate about Full-Stack Development. I love creating innovative solutions and am always eager to learn and collaborate.
 
 ## 🛠️ Skills
-- **Languages & Frameworks:** Java, Python, React.js, Node.js, SQL
+- **Languages & Frameworks:** Java, Python, React.js, Node.js, SQL, MongoDB
 - **Web Technologies:** HTML, CSS, JavaScript
 - **Concepts:** Object-Oriented Programming, Data Structures, Algorithms
 - **Tools:** Git, Adobe Photoshop, Adobe Premiere Pro
