@@ -18,7 +18,7 @@ I'm a recent Computer Science graduate passionate about Full-Stack Development. 
 
 - Website: [Live Demo](https://chatterboxweb.netlify.app/)
 
-### 🌤️ Weather App
+### 🛒 Delish Monde – Bakery E-Commerce App
 - A full-stack e-commerce web app built for a bakery. Users can browse products, place orders, and admins can manage users, orders, and view sales insights.
 - Technologies: 
 - **Frontend:** React, Vite, CSS Modules
