@@ -9,9 +9,13 @@ I'm a recent Computer Science graduate passionate about Full-Stack Development. 
 - **Tools:** Git, Adobe Photoshop, Adobe Premiere Pro
 
 ## 🌟 Projects
-### 🎮 Rock-Paper-Scissors Game
-- Developed a web-based Rock-Paper-Scissors game that allows players to compete against a computer opponent. The game features a user-friendly interface where players can select their choice and see immediate results, including scores and game outcomes.
-- Technologies: HTML, CSS, JavaScript.
+### 🗨️ Chatterbox – Real-Time Chat App
+- A real-time chat application built using React, Node.js, and Socket.io for instant messaging. Designed as a resume-ready MERN-style project with real-time WebSocket functionality.
+- Technologies:
+  - **Frontend: React, Vite, Socket.io-client
+  - **Backend: Node.js, Express, Socket.io
+  - **Deployment: Render (Backend), Vercel/Netlify (Frontend)
+
 - Website: [Live Demo](https://guna02826.github.io/rock-paper-scissors-game/)
 
 ### 🌤️ Weather App
