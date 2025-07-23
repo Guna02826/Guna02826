@@ -21,10 +21,10 @@ I'm a recent Computer Science graduate passionate about Full-Stack Development. 
 ### 🛒 Delish Monde – Bakery E-Commerce App
 - A full-stack e-commerce web app built for a bakery. Users can browse products, place orders, and admins can manage users, orders, and view sales insights.
 - Technologies: 
-- **Frontend:** React, Vite, CSS Modules
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB (Mongoose)
-- **Authentication:** JWT (HTTP-only cookies)
+  - **Frontend:** React, Vite, CSS Modules
+  - **Backend:** Node.js, Express.js
+  - **Database:** MongoDB (Mongoose)
+  - **Authentication:** JWT (HTTP-only cookies)
 
 - Website: [Live Demo](https://delishmonde-store.netlify.app/)
 
