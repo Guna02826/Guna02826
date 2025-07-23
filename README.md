@@ -12,16 +12,21 @@ I'm a recent Computer Science graduate passionate about Full-Stack Development. 
 ### 🗨️ Chatterbox – Real-Time Chat App
 - A real-time chat application built using React, Node.js, and Socket.io for instant messaging. Designed as a resume-ready MERN-style project with real-time WebSocket functionality.
 - Technologies:
-  - **Frontend: React, Vite, Socket.io-client
-  - **Backend: Node.js, Express, Socket.io
-  - **Deployment: Render (Backend), Vercel/Netlify (Frontend)
+  - **Frontend:** React, Vite, Socket.io-client
+  - **Backend:** Node.js, Express, Socket.io
+  - **Deployment:** Render (Backend), Vercel/Netlify (Frontend)
 
-- Website: [Live Demo](https://guna02826.github.io/rock-paper-scissors-game/)
+- Website: [Live Demo](https://chatterboxweb.netlify.app/)
 
 ### 🌤️ Weather App
-- Developed a responsive weather application that fetches real-time weather data from the OpenWeatherMap API based on user-inputted cities. The app displays current conditions like temperature, humidity, and wind speed in a clean, intuitive interface.
-- Technologies: HTML, CSS, JavaScript.
-- Website: [Live Demo](https://guna02826.github.io/WeatherApp-JS/)
+- A full-stack e-commerce web app built for a bakery. Users can browse products, place orders, and admins can manage users, orders, and view sales insights.
+- Technologies: 
+- **Frontend:** React, Vite, CSS Modules
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB (Mongoose)
+- **Authentication:** JWT (HTTP-only cookies)
+
+- Website: [Live Demo](https://delishmonde-store.netlify.app/)
 
 ## 🎓 Education
 - **Bachelor of Science in Computer Science Engineering**  
