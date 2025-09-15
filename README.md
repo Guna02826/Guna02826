@@ -36,7 +36,7 @@ Sathyabama Institute of Science and Technology, Chennai
 - Full-stack MERN app with user authentication, product listings, and order placement.
 - Optimized MongoDB queries, reducing latency by 15%.
 - Deployed on Render + Netlify with responsive UI and secure backend routes.  
-- **[GitHub Repo](https://delishmonde-store.netlify.app/) — [Live Site](https://delishmonde-store.netlify.app/)**
+- **[GitHub Repo](https://github.com/Guna02826/delishmonde-store/) — [Live Site](https://delishmonde-store.netlify.app/)**
 
 ### 💰 Expense Tracker Web App – Trackeroo
 - Spring Boot + React app for expense tracking with transaction CRUD features.
@@ -47,13 +47,8 @@ Sathyabama Institute of Science and Technology, Chennai
 ### 🗨️ Real-Time Chat App – ChatterBox
 - Real-time messaging app using WebSockets, JWT auth, and MongoDB for chat history.
 - Scalable backend API with optimized routes; explored Kafka basics for pub-sub extension.
-- **[GitHub Repo](#) — [Live Site](https://chatterboxweb.netlify.app/)**
-
-### 🌐 Portfolio Website
-- Personal site built with React + Tailwind to showcase projects and skills.
-- Integrated Framer Motion for smooth animations and downloadable resume.
-- **[GitHub Repo](#) — [Live Site](#)**
-
+- **[GitHub Repo](https://github.com/Guna02826/chatterbox) — [Live Site](https://chatterboxweb.netlify.app/)**
+  
 ---
 
 ## 📜 Certifications
